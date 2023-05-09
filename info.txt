@@ -1,0 +1,14 @@
+Colors - 
+#283350 b
+#f93800 r
+#ffb500 y
+
+Fonts - 
+font-family: 'Jost', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Sanchez', serif;
+font-family: 'Space Grotesk', sans-serif;
+
+NOTE- I'm sorry to say that the Current Images have not been collected.
+ I Will make sure that These will be gathered by the next project...

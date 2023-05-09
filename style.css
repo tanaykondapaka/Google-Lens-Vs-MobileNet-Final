@@ -1,0 +1,99 @@
+body{
+    background-image: url("bg.png");
+    background-size: 200px;
+text-rendering: #ffffff7b;
+
+}
+#title{
+    background-color: white;
+    color:black;
+    font-family: 'Jost', sans-serif;
+    font-weight: 200;
+    font-size: 70px;
+    border-radius: 30px;
+    text-align: center;
+    
+}
+table{
+    width: 100%;
+    margin-top:-40px;
+    height: 75%;
+}
+
+td{
+    border-radius: 30px;
+    background-color: white;
+width:20%;
+height:100%
+
+
+}
+
+table, th, td {
+    border: 1px solid rgba(0, 0, 0, 0);
+  }
+  table {
+    border-spacing: 10px;
+  }
+  .t_img{
+    width:90%;
+    height:200px;
+    border:5px #283350 solid;
+    border-radius:30px;
+    object-fit: contain;
+
+  }
+  .g_div{
+    width:90%;
+    background-color: #ffb500;
+    height: 145px;
+    border-radius: 30px;
+    border:5px #ffb500 solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Sanchez', serif;
+    font-weight: bold;
+  }
+  .m_div{
+    width:90%;
+    background-color: #f93800;
+    height: 145px;
+    font-family: 'Sanchez', serif;
+    font-weight: bold;
+    border-radius: 30px;
+    border:5px #f93800 solid;
+  }
+  #conclusion h1{
+    background-color: white;
+    font-family: 'Space Grotesk', sans-serif;
+    color:#000000;
+   height:8%;
+   width:98%;
+   border-radius: 30px;
+   font-size: 50px;
+   text-align: center;
+   font-weight: 300;
+   line-height: 60px;
+   border-left: 10px #f93800 solid;
+   border-right: 10px #f93800 solid;
+   border-top: 10px #ffb500 solid;
+   border-bottom: 10px #ffb500 solid;
+  }
+
+  .winner{
+    position: absolute;
+    background-color: rgb(0, 212, 0);
+    padding: 10px;
+    margin-top:-25px;
+    margin-left:67.5px ;
+    font-family: 'Jost';
+    width:7.5%;
+    border-radius:30px;
+    font-weight: 500;
+
+  }
+
+  .ans{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 800;
+  }
